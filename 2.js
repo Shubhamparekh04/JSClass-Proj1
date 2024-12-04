@@ -12,7 +12,9 @@ child(age) {
 }
 }
 
+
 let p1 = new Person();
 
 p1.father(60);
 p1.child(20);
+
