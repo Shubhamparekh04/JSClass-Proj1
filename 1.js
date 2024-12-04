@@ -37,5 +37,5 @@ class School {
 
 
 let s1 = new School("Shubham", "Shubham@gmail.com", +918000854404);
-s1.peon();
+s1.student();
 
